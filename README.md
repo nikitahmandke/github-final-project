@@ -1,3 +1,7 @@
+# Simple Interest Calculator
+
+A simple interest calculator written in Bash to compute interest based on principal, rate, and time.
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
